@@ -12,5 +12,18 @@
 //
 //= require rails-ujs
 //= require activestorage
+
+//= require vendor/jquery/dist/jquery.min.js
+//= require vendor/jquery-migrate/dist/jquery-migrate.min.js
+//= require vendor/popper.js/dist/umd/popper.min.js
+//= require vendor/bootstrap/bootstrap.min.js
+//= require vendor/jquery-validation/dist/jquery.validate.min.js
+//= require vendor/jquery.countdown.min.js
+
+//= require js/hs.core.js
+//= require js/components/hs.validation.js
+//= require js/helpers/hs.focus-state.js
+//= require js/components/hs.countdown.js
+
 //= require turbolinks
 //= require_tree .
